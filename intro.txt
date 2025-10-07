@@ -13,3 +13,10 @@ Kỹ năng:
 - HTML/CSS  
 - Git  
 - Python
+  
+Kế hoạch học tập:  
+- Ôn lại kiến thức Git cơ bản.  
+- Thực hành các thao tác trên GitHub.  
+- Tìm hiểu về branching và merging.  
+- Làm bài tập thực hành Git.  
+- Chuẩn bị cho kỳ thi cuối kỳ.
