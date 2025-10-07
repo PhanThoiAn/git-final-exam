@@ -1,0 +1,6 @@
+Tính năng mới:  
+- Tự động kiểm tra lỗi cú pháp.  
+- Gợi ý sửa lỗi.  
+- Tích hợp với VS Code.  
+- Hỗ trợ đa ngôn ngữ.  
+- Tối ưu hiệu suất.
