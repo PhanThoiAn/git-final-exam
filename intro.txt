@@ -1,0 +1,7 @@
+
+Kế hoạch học tập:
+- Ôn lại Git cơ bản
+- Thực hành branch
+- Làm bài kiểm tra
+- Học CI/CD
+- Viết báo cáo nhóm
