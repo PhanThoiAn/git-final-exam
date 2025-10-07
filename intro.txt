@@ -1,0 +1,15 @@
+Tôi là Phan Thới An, sinh viên ngành CNTT.  
+Tôi yêu thích công nghệ và lập trình.  
+Tôi đang học tại trường Đại học Cần Thơ.  
+Tôi mong muốn trở thành lập trình viên giỏi.  
+Tôi thích khám phá các công nghệ mới.  
+
+Sở thích:  
+- Lập trình  
+- Đọc sách  
+- Chơi thể thao  
+
+Kỹ năng:  
+- HTML/CSS  
+- Git  
+- Python
