@@ -9,3 +9,6 @@ Kế hoạch học tập trong 1 tuần:
 - Ghi chú:  
 Ngày bắt đầu: 07/10/2025  
 Ngày kết thúc: 13/10/2025
+- Ôn lại kiến thức Git nâng cao.  
+- Thực hành stash.  
+- Làm bài kiểm tra cuối kỳ.
