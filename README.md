@@ -1,1 +1,9 @@
-# Git Final Exam\nHọ tên: Nguyễn Văn An\nMSSV: 12345678\nNgày làm bài: 07/10/2025\n\n## Mục tiêu\n- Hiểu rõ quy trình làm việc với Git.\n- Thành thạo các thao tác quản lý mã nguồn.\n- Áp dụng Git vào làm việc nhóm hiệu quả.
+## Git Final Exam  
+Họ tên: Phan Thới An  
+MSSV: 220273  
+Ngày làm bài: 07/10/2025  
+
+### Mục tiêu  
+- Hiểu cách sử dụng Git để quản lý mã nguồn.  
+- Thành thạo các thao tác cơ bản như commit, branch, merge.  
+- Áp dụng Git vào dự án thực tế.
